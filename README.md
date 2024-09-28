@@ -1,4 +1,4 @@
-# Netflix-Movies-and-TVshows-Visualization-PowerBI
+# Netflix-Data-Visualization-PowerBI
 
 This is a Power BI project that creates interactive dashboards for Netflix content visual analysis.
 
